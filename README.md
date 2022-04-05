@@ -4,9 +4,9 @@
 
 **The System is working as following:** 
 
-* There are 20 different specialization in the system (e.g. Children, Surgery,etc)
+* The system has 20 different specialization in the system (e.g. Children, Surgery,etc)
 
-* For each specialization, there are only 5 available spots (queue)
+* For each specialization, there are only 5 available places 
 
 **The user has the following options:** 
 

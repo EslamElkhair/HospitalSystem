@@ -27,6 +27,11 @@
   * the system Read the requested specialization. If no patients, it informs the doctor
 
   * Otherwise, the system ask the patient to go with the Dr. tnen it Removes the picked patient from the queue
+!
 
 ## Demo
- 
+
+[![Demo Video](https://user-images.githubusercontent.com/63516927/161840172-7e5eeb08-edfa-428f-8831-1b7dc88d6a1f.gif)](https://www.youtube.com/watch?v=qglRvJG20hw&ab_channel=EslamElKhair)
+
+
+

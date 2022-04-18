@@ -11,6 +11,8 @@ To Run Hospital management system:
 
 ## Description 
 
+Hospital management system is a C++ console-based system used to help doctors manage the process of ckecking patients regularly. 
+
 **The System is working as following:** 
 
 * The system has 20 different specialization in the system (e.g. Children, Surgery,etc)

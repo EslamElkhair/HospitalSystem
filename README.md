@@ -2,6 +2,8 @@
 
 **Hospital management system is a console-based application used to help doctors to manage the process of ckecking patients regularly.** 
 
+## Description 
+
 **The System is working as following:** 
 
 * The system has 20 different specialization in the system (e.g. Children, Surgery,etc)

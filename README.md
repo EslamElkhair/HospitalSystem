@@ -1,6 +1,13 @@
 # Hospital Management System
 
-**Hospital management system is a console-based application used to help doctors to manage the process of ckecking patients regularly.** 
+
+To Run Hospital management system:
+
+1. install all the project files
+
+2. install  [codeBlocks](https://www.codeblocks.org/)  and Run the **.cpb** file on the IDE
+
+3. Feel free to test all the project functionalities and send me [E-mail](esotech3@gmail.com) if there is something wrong.
 
 ## Description 
 

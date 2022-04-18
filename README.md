@@ -42,6 +42,8 @@ Hospital management system is a C++ console-based system used to help doctors ma
 
 ## Demo
 
+For the project demo, visit Link : https://youtu.be/qglRvJG20hw
+
 [![Demo Video](https://user-images.githubusercontent.com/63516927/161840172-7e5eeb08-edfa-428f-8831-1b7dc88d6a1f.gif)](https://www.youtube.com/watch?v=qglRvJG20hw&ab_channel=EslamElKhair)
 
 
